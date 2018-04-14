@@ -1,0 +1,15 @@
+/.idea/
+*.iml
+/target/
+/lib
+.classpath
+.project
+.settings
+
+#please note this file was already there, we did not made it
+# it says to ignore *.imml, /target, /lib etc
+#hence there in cmd you did not see /target/
+#lets ignore bin/
+
+/bin/
+# okay :)
